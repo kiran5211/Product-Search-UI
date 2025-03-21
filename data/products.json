@@ -1,0 +1,7 @@
+[
+    {"name": "Laptop", "category": "electronics", "price": 999, "image": "images/laptop.jpg"},
+    {"name": "T-Shirt", "category": "clothing", "price": 19, "image": "images/tshirt.jpg"},
+    {"name": "Sofa", "category": "home", "price": 299, "image": "images/sofa.jpg"},
+    {"name": "Headphones", "category": "electronics", "price": 149, "image": "images/headphones.jpg"},
+    {"name": "Jeans", "category": "clothing", "price": 49, "image": "images/jeans.jpg"}
+]
